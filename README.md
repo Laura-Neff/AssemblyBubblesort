@@ -1,4 +1,4 @@
 # Laura-Neff
 AssemblyBubblesort
 
-Sorting 2 arrays with bubblesort in Assembly
+A bubblesort method written in Assembly to sort arrays in ascending order.
